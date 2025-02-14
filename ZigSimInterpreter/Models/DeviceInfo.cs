@@ -2,7 +2,7 @@
 {
     public record DeviceInfo(
         string? OS,
-        string? OsVersion,
+        string? OSVersion,
         string? Name,
         string? UUID,
         int? DisplayWidth,
