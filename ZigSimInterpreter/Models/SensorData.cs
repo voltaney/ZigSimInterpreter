@@ -65,6 +65,5 @@ namespace ZigSimInterpreter.Models
                 ProximityMonitor, Pressure, MicLevel
             ).GetHashCode();
         }
-
     }
 }

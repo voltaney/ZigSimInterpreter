@@ -42,7 +42,6 @@ internal class Program
                     {
                         Console.WriteLine($"Error: {zigSimResult.ErrorMessage}");
                     }
-
                 }
             }
         }
