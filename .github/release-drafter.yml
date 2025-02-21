@@ -61,7 +61,7 @@ autolabeler:
   - label: 'type: test'
     branch:
       - '/^test[/-].+/'
-  - label: refactor
+  - label: 'type: refactor'
     branch:
       - '/^refactor[/-].+/'
   - label: 'type: docs'
