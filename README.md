@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![NuGet Version](https://img.shields.io/nuget/v/Voltaney.ZigSimInterpreter)
 [![CI](https://github.com/voltaney/ZigSimInterpreter/actions/workflows/ci.yml/badge.svg)](https://github.com/voltaney/ZigSimInterpreter/actions/workflows/ci.yml)
+![dotnet Version](https://img.shields.io/badge/.NET-8.0-blueviolet)
 
 Parser library for data sent from the [ZigSim mobile application](https://zig-project.com/). Currently supports **only JSON** format.
 
